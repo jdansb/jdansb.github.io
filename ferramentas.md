@@ -13,6 +13,7 @@
 - GNU Octave,SageMath e Scilab : Softwares para computação numérica semelhante ao MATLAB.
 - Spyder: Ambiente científico de desenvolvimento para Python.
 - wxMaxima: Sistema de computação simbólica
+
 **Código fechado**:
 - Google Colab: Plataforma online semelhante ao Projeto Jupyter.
 - Replit: IDE (e mais) online e colaborativo.
