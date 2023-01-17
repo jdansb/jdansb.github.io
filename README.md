@@ -13,31 +13,31 @@ Contact: sbjhordan@gmail.com, [LinkedIn](https://www.linkedin.com/in/jhordan-sil
 
 # Experience
 
-**Federal University of Rio Grande do Sul (UFRGS)**:  Research (Master) </br>
-*2021-present*</br>
+**Federal University of Rio Grande do Sul (UFRGS)**:  Research (Master) <br>
+*2021-present*<br>
 I am currently a CAPES scholarship holder, I develop my research in the Sociophysics, Econophysics, and Complex Networks group where I work on a project motivated by the Patagonian ecosystem aiming a better understand the dynamics between different species of native fauna and ecosystem degradation.
 
-**Federal University of Santa Maria (UFSM)**:  Research (Undergraduate) </br>
-*2019-2020*</br>
+**Federal University of Santa Maria (UFSM)**:  Research (Undergraduate) <br>
+*2019-2020*<br>
 During this period, I received two scholarships from FAPERGS and CNPQ. During the first project, in 2019, I worked at the Electronic Structure of Materials Laboratory (LEELMAT) where I studied about modeling and dynamic of the LOXL2 enzyme. In 2020, I joined the Quantum Information and Emergent Phenomena research group (QIEP) where I studied the implementation of an artificial intelligence model in quantum computers.
 
-**Federal University of Rio Grande (FURG)**:   Research (Undergraduate)</br>
-*2013-2015*</br>
+**Federal University of Rio Grande (FURG)**:   Research (Undergraduate)<br>
+*2013-2015*<br>
 During this period, I received scholarships from the university itself and from the funding agencies FAPERGS and CNPQ. This experience gave me the opportunity to start my career as a researcher, both studying particle physics and learning about the researcher career itself.
 
 **Note**: A depressive episode, which culminated in my diagnosis as autistic marked the time between FURG and UFSM. Despite this, I had 1.5 years of studies in information technology at UNINTER remotely (2016-2017) and a semester in computational engineering at FURG (2018). Even before FURG itself, I spent another year and a half in information technology at URCAMP (2011-2012), where I could also do an internship in computer maintenance. Before this there was still a short passage at UNIPAMPA in physics (2011), but in the degree, modality to teach, where I discovered I wanted to be a researcher.
 
 ## Non-profit experience
-**Federal University of Rio Grande (FURG)**: Developer </br>
-*2018*</br>
+**Federal University of Rio Grande (FURG)**: Developer <br>
+*2018*<br>
 During this time, I collaborated with the development of the game "Água" (water), being responsible for rebuilding the game on mobile devices. This is a project whose focus was on the development of children's consciousness of the importance of water.
 
-**Federal University of Rio Grande (FURG)**: Research (Undergraduate)</br>
-*2016*</br>
+**Federal University of Rio Grande (FURG)**: Research (Undergraduate)<br>
+*2016*<br>
 I collaborated with the research group in high energy physics at FURG, ASTROFURG – Division of High Energy (D.A.E.). I studied hydrodynamic instabilities and did the cluster management.
 
-**Federal University of Rio Grande (FURG)**: Member of the students union of the Physics degree</br>
-*2014-2015*</br>
+**Federal University of Rio Grande (FURG)**: Member of the students union of the Physics degree<br>
+*2014-2015*<br>
 In the first year, I worked in the event organization sector, and in the following year, I migrated to the student assistance sector and social movements.
 
 # Works
