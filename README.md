@@ -63,14 +63,16 @@ For a complete list, see the Portuguese version.
 - [Partial Solutions Manual Herbert B. Goldstein 3RD ED](https://www.researchgate.net/publication/358249174_Partial_Solutions_Manual_Herbert_B_Goldstein_3RD_ED) (English): A detailed partial solution collectively done during the Classical Mechanics textbook master's program (Herbert B. Goldstein 3RD ED.. Chapters included: 1,2,8, and 9.
 - [Introduction to Quantum Computing](https://www.researchgate.net/publication/352899034_Introducao_a_computacao_quantica) (Portuguese): Study notes written during the production of the undergraduate final thesis, a more succinct and revised version became part of the final work. However, I believe that these 'expanded notes' are a good introductory reference. It does not presuppose a knowledge of quantum mechanics, only the mathematical tools.
 - [Introduction to Computational Fluid Dynamics](https://www.researchgate.net/publication/352898989_Introducao_a_Fluidodinamica_Computacional) (Portugese): I wrote these study notes during my scientific initiation in the undergraduate studies. They cover the deduction of hydrodynamic equations in two different ways: one more classical and the other through statistical methods. In addition, it presents an introduction to the PLUTO computational tool and some analysis of a few particular cases.
-- 
+
 # Certificates
-- Chinese Bridge - Hebei Normal University (2021)
-- Chinês Para Iniciantes - Peking University (2021)
-- Inglês B2 (CEFR) - English Live (2021)
+- [Chinese Bridge](https://drive.google.com/file/d/1Qt3KKZroC3aqIU6UohzCra7HNn5XBoMB/view) - Hebei Normal University (2021)
+- [Chinese for Beginners](https://drive.google.com/file/d/1Qrkc7j1BFI-vJPY21OT_vl1DMd02FR_w/view)- Peking University (2021)
+- [Inglês B2 (CEFR)](https://drive.google.com/file/d/1Qt_arUk5f17b3nQNLwF73-5tc2EFjSem/view) - English Live (2021)
 - National Covid-19 Mathematical Modeling Meeting (2021)
-  - Data Workshop (1 e 2)
-  - Compartmental models: deterministic, stochastic, and in complex networks.
-- Artificial Intelligence- Brazilian Center for Physical Research (2021)
-- Introduction to Hacking and Pentest - Solyd (2018)
-- How Google Does Machine Learning - Google Cloud (2018) 
+  - Data Workshop ([1](https://drive.google.com/file/d/1R4PK_TMwtFfI-1vj6xDU83fcEeyxgLxn/view) e [2](https://drive.google.com/file/d/1R544DVEuLSuds0M0PZzTlGvzPivLXNGE/view))
+  - Compartmental models: [deterministic](https://drive.google.com/file/d/1R-2jn0OzM1P0cQ01SMEF5fcX-mNZWkbN/view), [stochastic](https://drive.google.com/file/d/1R-DlJUy5PCZzBFdjcXZlwy6t27UATSFS/view), and [in complex networks]().
+- [Artificial Intelligence](https://drive.google.com/file/d/1QUEOQ36jjOnN6OapKlToqQFgKq2PrSX0/view?usp=sharing)- Brazilian Center for Physical Research (2021)
+- [Introduction to Hacking and Pentest](https://drive.google.com/file/d/1Qi6gCh1eBy0XNJWoPE_NNAnSSFu-A6Yw/view) - Solyd (2018)
+- [How Google Does Machine Learning](https://drive.google.com/file/d/1QjDKOTcmat9snjOvlJ7WWASIDzCqMVrM/view) - Google Cloud (2018) 
+
+# Other
