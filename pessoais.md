@@ -1,1 +1,1 @@
-Teste
+Apesar de já ter desenvolvido inúmeros projetos pessoais e compartilhados tantos por tantas plataformas diferentes na internet, acredito que pela primeira vez tenho ferramentas adequadas para mostrar de maneira adequada o desenvolvimento matemático e computacional. Então estou refazendo alguns e criando alguns novos.
