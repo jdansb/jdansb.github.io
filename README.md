@@ -67,4 +67,4 @@ In the first year, I worked in the event organization sector, and in the followi
 - [Introduction to Hacking and Pentest](https://drive.google.com/file/d/1Qi6gCh1eBy0XNJWoPE_NNAnSSFu-A6Yw/view) - Solyd (2018)
 - [How Google Does Machine Learning](https://drive.google.com/file/d/1QjDKOTcmat9snjOvlJ7WWASIDzCqMVrM/view) - Google Cloud (2018) 
 
-# Other
+# Others
