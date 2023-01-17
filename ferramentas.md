@@ -10,7 +10,7 @@
   - Mesa: Biblioteca para modelagem baseada em agentes
 - NetLogo: Linguagem de programação e ambiente de desenvolvimento integrado voltado à modelos baseados em indivíduos.
 - Projeto Jupyter: Permite a criação de notas que mesclam programação e documentos de texto.
-- GNU Octave,SageMath e Scilab : Softwares para computação numérica semelhante ao MATLAB.
+- GNU Octave, SageMath e Scilab : Softwares para computação numérica semelhante ao MATLAB.
 - Spyder: Ambiente científico de desenvolvimento para Python.
 - wxMaxima: Sistema de computação simbólica
 
