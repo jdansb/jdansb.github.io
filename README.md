@@ -1,7 +1,7 @@
 # Jhordan Silveira de Borba
 Seja bem vindo ao meu humilde site pessoal.
 
-Talvez você esteja interessado nos meus [**projetos pessoais**](https://jdansb.github.io/pessoais) ou na [**lista de ferramentas**](https://jdansb.github.io/Ferramentas) que considero úteis para um cientista. Agora caso você queira saber mais sobre mim você pode ler meu currículo abaixo.
+Talvez você esteja interessado nos meus [**projetos pessoais**](https://jdansb.github.io/pessoais) ou na [**lista de ferramentas**](https://jdansb.github.io/ferramentas) que considero úteis para um cientista. Agora caso você queira saber mais sobre mim você pode ler meu currículo abaixo.
 
 # About me
 
