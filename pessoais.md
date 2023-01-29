@@ -10,12 +10,12 @@ Apesar de já ter desenvolvido inúmeros projetos pessoais e compartilhados tant
 - [Perceptron](https://www.youtube.com/watch?v=o8DdF2H3mxM): Este é um vídeo simples sobre inteligência artificial, mais especificamente neurônios do tipo perceptron.
 - Three-species ecosystem in Argentine Patagonia: 
   - [Apresentação do encontro Nacional de Física Estatística](https://www.youtube.com/watch?v=HFmypvbyiSo) (Inglês)
-  - [Apresentação do XII Workshop in Complexity of Water, Other Liquids and Education](https://www.youtube.com/watch?v=9HG7Sm35pXM] (Português)
+  - [Apresentação do XII Workshop in Complexity of Water, Other Liquids and Education](https://www.youtube.com/watch?v=9HG7Sm35pXM) (Português)
 - [(Projeto) Implementação de inteligência artificial em computadores quânticos](https://www.youtube.com/watch?v=qmGPA6tD-SY): Primeira prática para a defesa do projeto de trabalho de graduação em física. 
 - [(TCC) Implementação de aprendizado de máquina em computadores quânticos](https://youtu.be/nXgJA3pSQuE): Primeira prática para a defesa do trabalho de graduação em física, 
 - [Sobre guanacos, ovelhas e pumas: resultados preliminares de um modelo de ecologia animal](https://youtu.be/3XdOkI-4Obs): Prática para minha primeira apresentação no grupo de pesquisa 
 - [Apresentação da sociofísica: Vídeo curto apenas para apresentar ao público sobre o que é sociofísica](https://youtu.be/6ysj756Ku4g)  
-- [Evento de Profissões: Uma pequena apresentação sobre física em um evento de profissões](https://www.youtube.com/watch?v=quiXVrNH8iI&t=2245s).
+- [Evento de Profissões](https://www.youtube.com/watch?v=quiXVrNH8iI&t=2245s): Uma pequena apresentação sobre física em um evento de profissões.
 
 ## Blog
 - [Iniciando no PyGame](https://drive.google.com/file/d/1MYRfWtRa4T1qSKck2TpAHpSHn4PR6r3a/view?usp=sharing)
