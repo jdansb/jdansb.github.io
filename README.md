@@ -3,7 +3,7 @@ Seja bem vindo ao meu humilde site pessoal.
 
 Talvez você esteja interessado nos meus [**projetos pessoais**](https://jdansb.github.io/pessoais) ou na [**lista de ferramentas**](https://jdansb.github.io/ferramentas) que considero úteis para um cientista. Agora caso você queira saber mais sobre mim você pode ler meu currículo abaixo.
 
-# About me
+# CURRICULUM
 
 I have a degree in Physics from the Federal University of Santa Maria (UFSM) where I developed my work in quantum computing and artificial intelligence. During this period I worked in the Quantum Information and Emergent Phenomena (QIEP) group under the guidance of Dr. Jonas Maziero and developed my undergraduated thesis entitled "Implementation of Machine Learning Techniques in Quantum Computers" supported by CNPq and FAPERGS through grants. Before this, I had a passage in the Laboratory of Electronic Structure of Energies (LEELMAT) and in the High Division of Materials (DAE), where I worked separately, on molecular dynamics and hydrodynamics.
 
@@ -42,29 +42,49 @@ In the first year, I worked in the event organization sector, and in the followi
 
 # Works
 
-### Main works
+## Complete works
 
-- [Hybrid model of the kernel method for quantum computers](https://periodicos.utfpr.edu.br/rbfta/article/view/14100) (Portuguese): Paper published by the Brazilian Journal of Applied Technological Physics (2022)
-- [Implementation of Machine Learning Techniques in Quantum Computers](https://www.researchgate.net/publication/352898890_Implementacao_de_Tecnicas_de_Aprendizado_de_Maquina_em_Computadores_Quanticos) (Portuguese): Final version of my undergraduate thesis in physics developed at UFSM (2021).
-- [Three-species ecosystem in Argentine Patagonia](https://www.researchgate.net/publication/356493117_Three-species_ecosystem_in_Argentine_Patagonia) (English): [Video](https://youtu.be/HFmypvbyiSo), short presentation made for National Meeting of Statistical Physics (2021).
-- [Molecular dynamics and docking of the Lysyl Oxidase enzyme interaction Homolog 2](https://www.researchgate.net/publication/352933528_Modelagem_e_Dinamica_Molecular_da_Enzima_Lysyl_Oxidase_Homolog_2) (Portuguese): Long abstract accepted to present at Escola Gaúcha de Bioinformatics (2019).
+- [Hybrid model of the kernel method for quantum computers](https://periodicos.utfpr.edu.br/rbfta/article/view/14100): Paper published by the Brazilian Journal of Applied Technological Physics (2022, Portuguese)
+- [Implementation of Machine Learning Techniques in Quantum Computers](https://www.researchgate.net/publication/352898890_Implementacao_de_Tecnicas_de_Aprendizado_de_Maquina_em_Computadores_Quanticos) (Portuguese): Undergraduate thesis (2021, Portuguese).
 
-### Main study notes
+## Abstracts
+
+### International Event
+- [Two-prey-one-predator system: coexistence of sheep, guanaco, and puma in the Patagonia region](): [International School and Conference on Network Science]() (2023, English)
+
+### National event
+  - [Three-species ecosystem in Argentine Patagonia](https://www.researchgate.net/publication/356493117_Three-species_ecosystem_in_Argentine_Patagonia) (2021, English): National Meeting of Statistical Physics. [Abstracts Book](https://drive.google.com/file/d/1QPByKMPKkq7kuqxsHDOxmF4c_AKZ1hyN/view?usp=sharing), [video](https://youtu.be/HFmypvbyiSo).
+  
+### Local Event
+- [Three-species ecosystem in Argentine Patagonia](https://www.researchgate.net/publication/356493117_Three-species_ecosystem_in_Argentine_Patagonia) (2021, Portuguese):  XII Workshop in Complexity of Water, Other Liquids and Education.  [video](https://www.youtube.com/watch?v=9HG7Sm35pXM). 
+- [Implementation of artificial neural networks in quantum computers](https://www.researchgate.net/publication/352953599_Implementacao_de_redes_neurais_artificiais_em_computadores_quanticos_Resumo) -  [35th Integrated Academic Journey, UFSM](https://portal.ufsm.br/jai/trabalho/arquivo.html?arquivo=51938) (2020, Portuguese)
+- [Molecular dynamics and docking of the enzyme Lysyl Oxidase Homolog 2 interaction](https://www.researchgate.net/publication/352953331_Modelagem_e_dinamica_molecular_da_enzima_lysyl_oxidase_homolog_2_Resumo) - [34th Integrated Academic Journey, UFSM](https://portal.ufsm.br/jai/trabalho/arquivo.html?arquivo=39308) (2019, Portuguese)
+- [Molecular dynamics and docking of the Lysyl Oxidase enzyme interaction Homolog](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F352933461_Modelagem_e_dinamica_molecular_da_enzima_Lysyl_Oxidase_Homolog_2&sa=D) - [Gaucho School of Bioinformatics](https://www.ufrgs.br/egb/trabalhos-aceitos/) (2019, Portuguese)
+  - [Long abstract](https://www.researchgate.net/publication/352933528_Modelagem_e_Dinamica_Molecular_da_Enzima_Lysyl_Oxidase_Homolog_2)
+- [A study on mechanisms of energy loss and particle scattering](https://www.researchgate.net/publication/352954267_Um_estudo_sobre_mecanismos_de_perda_de_energia_em_espalhamentos_de_particulas_Resumo)- [14th University Production Exhibition,FURG](https://mpu-historico.furg.br/congresso-de-iniciacao-cientifica-2015?download=1351:jhordan%20borba) (2015, Portuguese)
+- [Superluminal Neutrinos and Earth's MotionSuperluminal Neutrinos and Earth's Motion](https://www.researchgate.net/publication/352953903_Neutrinos_superluminares_e_o_movimento_da_terra_Resumo)  - [13th University Production Exhibition](https://mpu-historico.furg.br/xxiii-congresso-de-iniciacao-cientifica?download=171:Congresso%20de%20Inicia%C3%A7%C3%A3o%20Cientifica%202014&start=80) (2014, Portuguese)
+- [Derivation of the Schrödinger equation in the Feynman path integral formalism](https://www.researchgate.net/publication/352954251_Derivacao_da_equacao_de_schrodinger_no_formalismo_de_integrais_de_caminho_de_feynman_Resumo) - [13th University Production Exhibition](https://mpu-historico.furg.br/xxiii-congresso-de-iniciacao-cientifica?download=170:Congresso%20de%20Inicia%C3%A7%C3%A3o%20Cientifica%202014&start=80) (2014, Portuguese)
+
+
+
+## Study notes¹
 - [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) (Portuguese): Wiki started in my master's research. I share part of my introductory studies in the field through the investigation of different mathematical and computational models.
 - [Computational Methods B](https://fiscomp.if.ufrgs.br/index.php/M%C3%A9todos_computacionais#M.C3.A9todos_Computacionais_B): (Portuguese):  Contributions made during my teaching internship in the discipline of the same name. I made mainly contributions to the methods of numerical solutions of ordinary differential equations.
 - [Partial Solutions Manual Herbert B. Goldstein 3RD ED](https://www.researchgate.net/publication/358249174_Partial_Solutions_Manual_Herbert_B_Goldstein_3RD_ED) (English): A detailed partial solution collectively done during the Classical Mechanics textbook master's program (Herbert B. Goldstein 3RD ED.. Chapters included: 1,2,8, and 9.
 - [Introduction to Quantum Computing](https://www.researchgate.net/publication/352899034_Introducao_a_computacao_quantica) (Portuguese): Study notes written during the production of the undergraduate final thesis, a more succinct and revised version became part of the final work. However, I believe that these 'expanded notes' are a good introductory reference. It does not presuppose a knowledge of quantum mechanics, only the mathematical tools.
 - [Introduction to Computational Fluid Dynamics](https://www.researchgate.net/publication/352898989_Introducao_a_Fluidodinamica_Computacional) (Portugese): I wrote these study notes during my scientific initiation in the undergraduate studies. They cover the deduction of hydrodynamic equations in two different ways: one more classical and the other through statistical methods. In addition, it presents an introduction to the PLUTO computational tool and some analysis of a few particular cases.
 
+1 - Be cautious, subject to errors because of the natural learning process. These notes are the result of my personal study on certain topics.
+
 # Certificates
 - [Chinese Bridge](https://drive.google.com/file/d/1Qt3KKZroC3aqIU6UohzCra7HNn5XBoMB/view) - Hebei Normal University (2021)
-- [Chinese for Beginners](https://drive.google.com/file/d/1Qrkc7j1BFI-vJPY21OT_vl1DMd02FR_w/view)- Peking University (2021)
-- [Inglês B2 (CEFR)](https://drive.google.com/file/d/1Qt_arUk5f17b3nQNLwF73-5tc2EFjSem/view) - English Live (2021)
-- National Covid-19 Mathematical Modeling Meeting (2021)
+- [Chinese for Beginners](https://drive.google.com/file/d/1Qrkc7j1BFI-vJPY21OT_vl1DMd02FR_w/view)- Peking University (2021),
+- [English B2 (CEFR)](https://drive.google.com/file/d/1Qt_arUk5f17b3nQNLwF73-5tc2EFjSem/view) - English Live (2021)
+- National Meeting of Mathematical Modeling (2021):
   - Data Workshop ([1](https://drive.google.com/file/d/1R4PK_TMwtFfI-1vj6xDU83fcEeyxgLxn/view) e [2](https://drive.google.com/file/d/1R544DVEuLSuds0M0PZzTlGvzPivLXNGE/view))
   - Compartmental models: [deterministic](https://drive.google.com/file/d/1R-2jn0OzM1P0cQ01SMEF5fcX-mNZWkbN/view), [stochastic](https://drive.google.com/file/d/1R-DlJUy5PCZzBFdjcXZlwy6t27UATSFS/view), and [in complex networks]().
-- [Artificial Intelligence](https://drive.google.com/file/d/1QUEOQ36jjOnN6OapKlToqQFgKq2PrSX0/view?usp=sharing)- Brazilian Center for Physical Research (2021)
+- [Artificial Intelligence](https://drive.google.com/file/d/1QUEOQ36jjOnN6OapKlToqQFgKq2PrSX0/view?usp=sharing)- Brazilian Center for Physical Research (2021) 
+- National Covid-19 Mathematical Modeling Meeting (2021)
 - [Introduction to Hacking and Pentest](https://drive.google.com/file/d/1Qi6gCh1eBy0XNJWoPE_NNAnSSFu-A6Yw/view) - Solyd (2018)
-- [How Google Does Machine Learning](https://drive.google.com/file/d/1QjDKOTcmat9snjOvlJ7WWASIDzCqMVrM/view) - Google Cloud (2018) 
+- [How Google Does Machine Learning](https://drive.google.com/file/d/1QjDKOTcmat9snjOvlJ7WWASIDzCqMVrM/view) - Google Cloud (2018)
 
-# Others
