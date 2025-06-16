@@ -19,7 +19,7 @@ Although I believe that we cannot be reduced to grades, I took the Unified Physi
 
 # Experience
 
-**Federal University of Rio Grande do Sul (UFRGS)**:  Research (PhD leve) <br>
+**Federal University of Rio Grande do Sul (UFRGS)**:  Research (PhD level) <br>
 *2023-current*<br>
 My current experience, as a CAPES scholarship recipient, is that I continue to work with research group  Sociophysics, Econophysics, and Complex Networks, but now motivated by the issue of inequality in the distribution of wealth and income under capitalism, I investigate its social structures and how these structures present, as an emerging property, the patterns of wealth distribution that we can observe in different countries.
 
@@ -27,11 +27,11 @@ My current experience, as a CAPES scholarship recipient, is that I continue to w
 *2021-2023*<br>
 During this period, I was a CNPq scholarship holder and developed my research in the Sociophysics, Econophysics, and Complex Networks group. There, I worked on a project motivated by the Patagonian ecosystem, aiming to better understand the dynamics between different species of native fauna and ecosystem degradation.
 
-**Federal University of Santa Maria (UFSM)**:  Research (Undergraduate) <br>
+**Federal University of Santa Maria (UFSM)**:  Research (Undergraduate level) <br>
 *2019-2020*<br>
 During this period, I received two scholarships, one from FAPERGS and one from CNPQ. In 2019, during the first project, I worked at the Electronic Structure of Materials Laboratory (LEELMAT), where I studied the modeling and dynamics of the LOXL2 enzyme. In 2020, I joined the Quantum Information and Emergent Phenomena (QIEP) research group, where I studied implementing an artificial intelligence model in quantum computers.
 
-**Federal University of Rio Grande (FURG)**:   Research (Undergraduate)<br>
+**Federal University of Rio Grande (FURG)**:   Research (Undergraduate level)<br>
 *2013-2015*<br>
 During this period, I received scholarships from the university and from the funding agencies FAPERGS and CNPQ. These opportunities allowed me to begin my career as a researcher while studying particle physics and learning about the research profession.
 
@@ -42,7 +42,7 @@ During this period, I received scholarships from the university and from the fun
 *2018*<br>
 During this time, I collaborated on the development of the game Água (Water), and I was responsible for rebuilding it for mobile devices. The project focused on raising children's awareness of the importance of water.
 
-**Federal University of Rio Grande (FURG)**: Research (Undergraduate)<br>
+**Federal University of Rio Grande (FURG)**: Research (Undergraduate level)<br>
 *2016*<br>
 I collaborated with the high energy physics research group at FURG (ASTROFURG – Division of High Energy [D.A.E.]). I studied hydrodynamic instabilities and managed the cluster.
 
