@@ -2,9 +2,10 @@
 
 > Não há um consenso geral sobre quais são os princípios fundamentais da mecânica quântica, sobre como ela deve ser ensinada ou mesmo sobre o que ela realmente “significa”. Todo físico competente sabe “fazer” mecânica quântica, mas as histórias que contamos a nós mesmos sobre o que estamos fazendo são tão variadas quanto os contos de Scheherazade — e quase tão implausíveis quanto eles... Contudo, há um consenso de que não é possível discutir de forma inteligente o significado da mecânica quântica sem antes ter uma noção clara do que ela realmente faz. (Introduction to Quantum Mechanics - 3ª Edição, David J. Griffiths)
 
-- Quântica sem filosofia.
+- Quântica sem filosofia: Carinhosamente também chamo de "Expansão do Griffiths", é basicamente uma revisão de mecânica quântica baseado no Introduction to Quantum Mechanics do David J. Griffiths (3ª Edição).
 
 ## Conteúdo antigo e abandonado
+Estes são projetos antigos, provavelmente eu vou retirar da internet em algum momento, mas por hora, vou deixar os links aqui.
 
 ## Vídeos
 - [Perceptron](https://www.youtube.com/watch?v=o8DdF2H3mxM): Este é um vídeo simples sobre inteligência artificial, mais especificamente neurônios do tipo perceptron.
