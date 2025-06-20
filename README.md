@@ -89,13 +89,13 @@ In the first year, I worked in event organization. The following year, I transit
 
 
 # Certificates
-- Best poster -Autumn Meeting Brazilian Physical Society, Belém. (2025)
+- Best poster - Autumn Meeting Brazilian Physical Society, Belém. (2025)
 - Introduction to philosophy: from the pre-Socratics to Sartre - Glauber Ataide (2024)
 - Review for the journal Ecological Modelling (2024)
 - Proficiency in reading in the English language - Federal University of Santa Catarina (2022)
 - Chinese Bridge - Hebei Normal University (2021)
 - Chinese for Beginners - Peking University (2021),
-- English B2 (CEFR)  - English Live (2021)
+- English B2 (CEFR) - English Live (2021)
 - National Meeting of Mathematical Modeling (2021):
   - Data Workshop 
   - Compartmental models in complex networks
