@@ -6,6 +6,7 @@
 - Python: Linguagem de programação de alto nível.
   - Matplotlib: Biblioteca para criação de gráficos e visualizações de dados em geral.
   - Numpy: Biblioteca para trabalhar com computação científica.
+  - Qiskit: Biblioteca para trabalhar com computadores quânticos.
   - Sympy: Biblioteca para matemática simbólica
   - Mesa: Biblioteca para modelagem baseada em agentes
 - NetLogo: Linguagem de programação e ambiente de desenvolvimento integrado voltado à modelos baseados em indivíduos.
@@ -16,6 +17,7 @@
 
 **Código fechado**:
 - Google Colab: Plataforma online semelhante ao Projeto Jupyter.
+  IBM Quantum: Plataforma que oferece acesso a computadores quânticos da IBM.
 - Replit: IDE (e mais) online e colaborativo.
 - WolframAlpha: Plataforma computacional online capaz de responder diferentes questões matemáticas.
 
@@ -37,6 +39,7 @@
 - SciELO:  Biblioteca digital de livre acesso a periódicos científicos brasileiros.
 
 ### Outros
+- ChatGPT, DeepSeek, Qwen, etc - Hoje em dia há uma grande variedade de plataformas de processamento de linguagem natural.
 - GitHub e GitLab: Controle de versão para projetos de programação.
 - Grammarly e ProWritingAid: Verificador de ortografia e gramática da língua inglesa.
 - Heroku: Plataforma para rodar aplicativos em nuvem
