@@ -17,7 +17,7 @@
 
 **Código fechado**:
 - Google Colab: Plataforma online semelhante ao Projeto Jupyter.
-  IBM Quantum: Plataforma que oferece acesso a computadores quânticos da IBM.
+- IBM Quantum: Plataforma que oferece acesso a computadores quânticos da IBM.
 - Replit: IDE (e mais) online e colaborativo.
 - WolframAlpha: Plataforma computacional online capaz de responder diferentes questões matemáticas.
 
