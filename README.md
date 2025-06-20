@@ -1,7 +1,7 @@
 # Jhordan Silveira de Borba
 Welcome to my humble personal website.
 
-You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below.
+You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you're specifically interested in my quantum mechanics study material (under development) you can follow its current status [here](https://github.com/jdansb/jdansb.github.io/blob/main/Arquivos/DLC.pdf).
 
 # CURRICULUM
 
