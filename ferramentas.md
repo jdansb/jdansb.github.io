@@ -34,15 +34,18 @@
 - Open Acces Button e Unpaywall: Extensões que buscam o artigo de graça e de maneira legal na internet.
 - PLOS ONE: Tem o objetivo de criar uma biblioteca de revistas científicas que funcionam dentro do modelo de conteúdo aberto.
 - ResearchGate: Rede social para pesquisadores, onde os próprios disponibilizam muitos trabalhos autorais.
+- Sci-Hub: Plataforma para obteção de artigos.
 - Scholarpedia: Enciclopedia de acesso aberto e com revisão por pares.
 - ScienceOpen: Plataforma gratuita para publicação de pesquisas e descobertas de novos artigos.
 - SciELO:  Biblioteca digital de livre acesso a periódicos científicos brasileiros.
 
 ### Outros
+- Anna's Archive - Plataforma para obtenção de livros em geral.
 - ChatGPT, DeepSeek, Qwen, etc - Hoje em dia há uma grande variedade de plataformas de processamento de linguagem natural.
 - GitHub e GitLab: Controle de versão para projetos de programação.
 - Grammarly e ProWritingAid: Verificador de ortografia e gramática da língua inglesa.
-- Heroku: Plataforma para rodar aplicativos em nuvem
+- Heroku: Plataforma para rodar aplicativos em nuvem.
 - Markdown Here: Extensão para formatação rápida do e-mail, reconhece a linguagem LaTeX.
-- Mendeley: Gerenciador de referências
+- Mendeley: Gerenciador de referências.
+- LibGen: Plataforma para obteção de livros (principalmente didáticos).
 - W3Schools: Tutoriais introdutórios e interativos de diversas linguagens de programação
