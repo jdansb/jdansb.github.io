@@ -111,7 +111,7 @@ Proceed with caution; these notes are subject to errors due to the natural learn
 
 ### Current projects:
 
-- [Griffiths DLC](https://github.com/jdansb/jdansb.github.io/blob/main/Arquivos/DLC.pdf) - In a nutshell, it's basically a review of quantum mechanics based on David J. Griffiths' Introduction to Quantum Mechanics (3rd Edition), where I try to open up all the accounts, examples and some problems in a straightforward way. (In progress, Portuguese)
+- [Griffiths DLC](https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20) - In a nutshell, it's basically a review of quantum mechanics based on David J. Griffiths' Introduction to Quantum Mechanics (3rd Edition), where I try to open up all the accounts, examples and some problems in a straightforward way. (In progress, Portuguese)
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
