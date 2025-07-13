@@ -12,17 +12,16 @@ To achieve this goal, I will review quantum mechanics based on the book Introduc
 
 One issue I would like to draw the reader's attention to before concluding is to reflect on what we actually measure directly—such as distance—and what depends on models (whether physical or mathematical) and is derived from what can be measured directly. For example, we cannot directly measure “weight”. But we can calculate this quantity from other direct measurements, such as the displacement of an object from an initial point after being suspended on a spring (spring scale). This is an interesting debate, which I will leave open for now. For now, suffice it to say that I will work with fundamental quantities.
 
-1. A função de Onda
-    1. Equação de Schroedinger
+1. The wave function
+    1. Schrödinger equation
     2. Momentum
-    3. A relação da incerteza
-2. Equação de Schroedinger independente do tempo   
-    1. Estados estacionários
-    2. Poço quadrado infinito
-    3. Oscilador harmônico
-       1. Método algébrico
-       2. Método analítico
-    4. Partícula livre
+3. The uncertainty principle
+2. Time-independent Schrödinger equation   
+    1. Stationary states
+    2. Infinite square well
+    3. Harmonic oscillator
+        1. Algebraic method
+        2. Analytical method
+    4. Free particle
 
 [^1]: Still, I believe that a good interpretation favors the progress of science, while an inadequate interpretation can represent an obstacle.
-
