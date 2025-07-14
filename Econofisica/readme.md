@@ -12,5 +12,6 @@ Outras leituras que considero úteis são  *Laws of Chaos: A Probabilistic Appro
 
 Agora podemos então ler meu material:
 - Medida do trabalho contido (How Labor Powers the Global Economy)
+- Statistical mechanics of money
 - Aproximação estatística da Lei do Valor (Classical Econophysics)
-- Statistical mechanics of money”
+- The social architecture of capitalism (Classical Econophysics)
