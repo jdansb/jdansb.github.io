@@ -1,3 +1,5 @@
+# Econofísica
+
 A econofísica ainda é uma área da física em grande parte desconhecida e, sendo a investigação da distribuição de riqueza na sociedade um nicho específico dentro dessa área, o material disponível sobre o tema é ainda mais escasso. Tenho estudado esse assunto com interesse crescente e gostaria de começar a compartilhar parte do conteúdo que venho lendo e analisando. O ideal, na minha opinião, seria construir um único material onde os conceitos fossem apresentados de forma coerente, estruturada e, se possível, com dificuldade progressiva — como em um livro introdutório sobre o tema.
 
 Atualmente, não acredito ter a didática (nem a experiência) necessárias para desenvolver esse projeto com a qualidade que ele exige. No entanto, posso recomendar alguns materiais e, principalmente, compartilhar minhas anotações de estudo sobre o desenvolvimento matemático e computacional de artigos e capítulos selecionados desses livros. Minha proposta é focar na reprodução e exploração de resultados já conhecidos da literatura, com o objetivo de divulgar a área e, ao mesmo tempo, facilitar a assimilação dos conceitos fundamentais.
