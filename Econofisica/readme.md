@@ -13,7 +13,7 @@ A seguir, indico três livros que considero particularmente úteis para quem des
 Outras leituras que considero úteis são  *Laws of Chaos: A Probabilistic Approach to Political Economy* (Farjoun e Machover), *How Labor Powers the Global Economy* (Farjoun, Machover e Zchariah) e *Agent-Based Models, Macroeconomic Scaling Laws and Sentiment Dynamics* (Lin Lin). 
 
 Agora podemos então ler meu material:
-1. [Leis estatísticas, sistemas complexos, fatos estilísticos e econofísica](https://github.com/jdansb/jdansb.github.io/tree/main/Econofisica)
+1. [Leis estatísticas, sistemas complexos, fatos estilísticos e econofísica](https://github.com/jdansb/jdansb.github.io/blob/main/Econofisica/leis.md)
 2. [Medida do trabalho contido](https://github.com/jdansb/jdansb.github.io/blob/main/Econofisica/medida_do_trabalho_contido.ipynb) (How Labor Powers the Global Economy)
 3. Statistical mechanics of money
 4. Aproximação estatística da Lei do Valor (Classical Econophysics)
