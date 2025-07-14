@@ -149,10 +149,10 @@ Lembrando que, por história da natureza, segundo o próprio autor, referimo-nos
 
 [^1]: Também há um artigo de divulgação científica interessante intitulado *[A física das partículas humanas](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).
 [^2]: A discussão completa pode ser encontrada no livro [*Statistical Laws in Complex Systems*](https://arxiv.org/abs/2407.19874) (Altmann).
-[^3]: [Em busca da Aplicabilidade de Sociedades Artificiais em Informática Educativa](https://lume.ufrgs.br/bitstream/handle/10183/12181/000617438.pdf?sequence=1&isAllowed=y) (Henrique Oliveira da Silva) discute a esse respeito.
+[^3]: [*Em busca da Aplicabilidade de Sociedades Artificiais em Informática Educativa*](https://lume.ufrgs.br/bitstream/handle/10183/12181/000617438.pdf?sequence=1&isAllowed=y) (Henrique Oliveira da Silva) e *[Otimização combinatória e programação linear: Modelos e algoritmos](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)* (Marco Goldbarg) servem de referência para esta discussão sobre modelos.
 [^4]: A discussão completa pode ser encontrada no livro *An Introduction to Agent-Based Modeling* (Wilensky e Rand).
 [^5]: Comentário originalmente encontrado no *Classical Econophysics* (Cottrell, Cockshott, Michaelson e Wright).
-[^6]: Anti-Dühring (Friedrich Engels).
+[^6]: *Anti-Dühring* (Friedrich Engels).
 [^7]: *Essentials of Econophysics Modelling* (Slanina)
 [^8]: *[Social physics](https://www.sciencedirect.com/science/article/abs/pii/S037015732100404X)*.
-[^9]: A ideologia Alemã (Friedrich Engels e Karl Marx)
+[^9]: *A ideologia Alemã* (Friedrich Engels e Karl Marx)
