@@ -1,4 +1,9 @@
 [Voltar ao site principal](https://jdansb.github.io/)
+> Mas esta diferença, por muito importante que seja para a investigação histórica — nomeadamente, de épocas e eventos singulares — não altera em nada o facto de que o curso da história é regido por leis internas universais. Pois, também aqui, apesar dos objectivos conscientemente queridos de todos os indivíduos, domina aparentemente à superfície, grosso modo, o acaso. Só raramente acontece o querido; na maioria dos casos, os múltiplos objectivos queridos entrecruzam-se e contradizem-se, ou esses mesmos objectivos são de antemão irrealizáveis, ou os meios são insuficientes. Assim, os choques das inúmeras vontades individuais e acções individuais conduzem a um estado que é totalmente análogo ao que domina na Natureza desprovida de consciência. (Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã - Friedrich Engels)
+
+- [Manual de Econofísica]([https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20](https://github.com/jdansb/jdansb.github.io/tree/main/Econofisica)) - Estou escrevendo um  material introdutório sobre econofísica, com foco especial na distribuição de riqueza. Procuro evitar debates subjetivos desnecessários, me concentrar nos aspectos quantitativos e (segundo os meus críticos) vulgarizar a teoria econômica.
+
+## Pausado
 
 > Não há um consenso geral sobre quais são os princípios fundamentais da mecânica quântica, sobre como ela deve ser ensinada ou mesmo sobre o que ela realmente “significa”. Todo físico competente sabe “fazer” mecânica quântica, mas as histórias que contamos a nós mesmos sobre o que estamos fazendo são tão variadas quanto os contos de Scheherazade — e quase tão implausíveis quanto eles... Contudo, há um consenso de que não é possível discutir de forma inteligente o significado da mecânica quântica sem antes ter uma noção clara do que ela realmente faz. (Introduction to Quantum Mechanics - 3ª Edição, David J. Griffiths)
 
