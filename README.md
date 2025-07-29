@@ -1,7 +1,7 @@
 # Jhordan Silveira de Borba
 Welcome to my humble personal website.
 
-You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you're specifically interested in my quantum mechanics study material (under development) you can follow its current status [here](https://github.com/jdansb/jdansb.github.io/blob/main/Arquivos/DLC.pdf).
+You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you are specifically interested in my study material on econophysics (under development), you can follow its current status [here](https://github.com/jdansb/jdansb.github.io/tree/main/Econofisica).
 
 # CURRICULUM
 
@@ -110,8 +110,8 @@ In the first year, I worked in event organization. The following year, I transit
 Proceed with caution; these notes are subject to errors due to the natural learning process. These notes are the result of my personal studies on certain topics. I thought they might be useful to other students.
 
 ### Current projects:
-
-- [Griffiths DLC](https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20) - In a nutshell, it's basically a review of quantum mechanics based on David J. Griffiths' Introduction to Quantum Mechanics (3rd Edition), where I try to open up all the accounts, examples and some problems in a straightforward way. (In progress, Portuguese)
+- [Econophysics Manual]([https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20](https://github.com/jdansb/jdansb.github.io/tree/main/Econofisica)) - I am writing an introductory textbook on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory.
+- [Griffiths DLC](https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20) - In a nutshell, it's basically a review of quantum mechanics based on David J. Griffiths' Introduction to Quantum Mechanics (3rd Edition), where I try to open up all the accounts, examples and some problems in a straightforward way. (Suspended, Portuguese)
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
