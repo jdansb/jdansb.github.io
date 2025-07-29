@@ -15,6 +15,6 @@ Outras leituras que considero úteis são  *Laws of Chaos: A Probabilistic Appro
 Agora podemos então ler meu material:
 * [Leis estatísticas, modelagem baseada em agentes e econofísica](https://github.com/jdansb/jdansb.github.io/blob/main/Econofisica/leis.md)
 * [Medida do trabalho contido](https://github.com/jdansb/jdansb.github.io/blob/main/Econofisica/medida_do_trabalho_contido.ipynb) (How Labor Powers the Global Economy) *em desenvolvimento*
-* Statistical mechanics of money
 * Aproximação estatística da Lei do Valor (Classical Econophysics)
+* Statistical mechanics of money
 * The social architecture of capitalism (Classical Econophysics)
