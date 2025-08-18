@@ -20,7 +20,7 @@ Error = np.full(N,0.0)                  # Error of each agent in the previous ye
 E     = np.zeros((N,L))                 # Commodities in possession of each agent
 A     = np.random.randint(0,L,N)        # Vector with the commodity currently produced by the agent
 D     = np.zeros((N,L))                 # Matrix with the consumption deficit of each agent for each commodity
-m     = np.full(N, int(M/N))            # Money of each agent
+m     = np.full(N, M/N)                 # Money of each agent
 
 #Production of vectors l and c that respect eta=1
 while(True):
@@ -71,11 +71,11 @@ for step in range(p):
         else:                                       # Otherwise, pick a random buyer and seller and call E1           
             buy=random.choice(buyers)
             sel=random.choice(sellers)
-            pbuy=random.randint(0,m[buy])           # Price evaluated by buyer
-            psel=random.randint(0,m[sel])           # Price evaluated by seller
+            pbuy=random.uniform(0,m[buy])           # Price evaluated by buyer
+            psel=random.uniform(0,m[sel])           # Price evaluated by seller
             a=min(pbuy,psel)                        # Minimum price
             b=max(pbuy,psel)                        # Maximum price
-            price= random.randint(a,b)
+            price= random.uniform(a,b)
             if(m[buy]>=price):                      # If the buyer has enough money
                 m[buy]-=price                       # Buyer loses money
                 m[sel]+=price                       # Seller gains money
@@ -108,4 +108,5 @@ for step in range(p):
         backup=trades.copy()
         trades =[[] for x in range (L)]
         print('---')
+
 
