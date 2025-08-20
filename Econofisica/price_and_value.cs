@@ -10,7 +10,7 @@ namespace ConsoleApp2
         {
             int N = 200;
             int L = 5;
-            double M = 500;//100.0 * N;
+            double M = 500.0;//100.0 * N;
             double[,] E = new double[N,L];
             var A = new int[N];
             var Erro = new double[N];
