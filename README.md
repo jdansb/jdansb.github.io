@@ -1,7 +1,7 @@
 # Jhordan Silveira de Borba
 Welcome to my humble personal website.
 
-You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you are specifically interested in my study material on econophysics (under development), you can follow its current status [here](https://jdansb.github.io/Econofisica).
+You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you are specifically interested in my study material on econophysics (under development), you can follow its current status [here]([https://jdansb.github.io/Econofisica](https://github.com/jdansb/Econophysics)).
 
 # CURRICULUM
 
