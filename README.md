@@ -53,6 +53,7 @@ In the first year, I worked in event organization. The following year, I transit
 # Works
 
 ## Complete works
+- [Can rising consumption deepen inequality?](https://arxiv.org/abs/2601.15537)
 - [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369) - Paper published by Physica A: Statistical Mechanics and its Applications (2025, English).
 - [Non-binary artificial neuron with phase variation implemented on a quantum computer](https://periodicos.ufsm.br/cienciaenatura/article/view/69281) - Paper published by the Ciência e Natura. (2024, English).
 - [One predator and two prey: coexistence of pumas, guanacos, and sheep in Patagonia](https://lume.ufrgs.br/handle/10183/264295) - Master's thesis (2023, Portuguese).
@@ -111,7 +112,6 @@ Proceed with caution; these notes are subject to errors due to the natural learn
 
 ### Current projects:
 - [Econophysics Manual]([https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20](https://github.com/jdansb/jdansb.github.io/tree/main/Econofisica)) - I am writing an introductory textbook on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory. (Ongoing, Portuguese)
-- [Griffiths DLC](https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20) - In a nutshell, it's basically a review of quantum mechanics based on David J. Griffiths' Introduction to Quantum Mechanics (3rd Edition), where I try to open up all the accounts, examples and some problems in a straightforward way. (Suspended, Portuguese)
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
