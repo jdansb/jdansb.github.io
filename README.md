@@ -111,7 +111,7 @@ In the first year, I worked in event organization. The following year, I transit
 Proceed with caution; these notes are subject to errors due to the natural learning process. These notes are the result of my personal studies on certain topics. I thought they might be useful to other students.
 
 ### Current projects:
-- [Econophysics Manual]([https://github.com/jdansb/jdansb.github.io/tree/main/Griffiths%20](https://github.com/jdansb/jdansb.github.io/tree/main/Econofisica)) - I am writing an introductory textbook on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory. (Ongoing, Portuguese)
+- Econophysics ([english](https://github.com/jdansb/Econophysics)/[portuguese(https://github.com/jdansb/jdansb.github.io/blob/main/Econofisica/Tese.xhtml)]): I am writing study notes on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory.
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
