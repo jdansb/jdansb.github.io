@@ -1,7 +1,7 @@
 # Jhordan Silveira de Borba
 Welcome to my humble personal website.
 
-You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you are specifically interested in my study material on econophysics (under development), you can follow its current status [here]([https://jdansb.github.io/Econofisica](https://github.com/jdansb/Econophysics)).
+You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you are specifically interested in my study material on econophysics (under development), you can follow its current status [here(english)](https://github.com/jdansb/Econophysics) or [here(portuguese)](https://jdansb.github.io/Econofisica/Tese.xhtml).
 
 # CURRICULUM
 
@@ -111,7 +111,7 @@ In the first year, I worked in event organization. The following year, I transit
 Proceed with caution; these notes are subject to errors due to the natural learning process. These notes are the result of my personal studies on certain topics. I thought they might be useful to other students.
 
 ### Current projects:
-- Econophysics ([english](https://github.com/jdansb/Econophysics)/[portuguese](https://github.com/jdansb/jdansb.github.io/blob/main/Econofisica/Tese.xhtml)): I am writing study notes on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory.
+- Econophysics ([english](https://github.com/jdansb/Econophysics)/[portuguese](https://jdansb.github.io/Econofisica/Tese.xhtml)): I am writing study notes on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory.
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
