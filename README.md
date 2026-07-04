@@ -1,5 +1,5 @@
 # Jhordan Silveira de Borba
-Welcome to my humble personal website.
+Welcome to my humble personal website. If you are interested in my econophysics study notes, you can find them [here](https://jdansb.github.io/Econophysics/) (or a PDF version in Portuguese [here](https://github.com/jdansb/Econophysics/blob/main/files/Tese.pdf)).
 
 
 # CURRICULUM
