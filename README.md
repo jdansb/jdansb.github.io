@@ -110,7 +110,7 @@ In the first year, I worked in event organization. The following year, I transit
 Proceed with caution; these notes are subject to errors due to the natural learning process. These notes are the result of my personal studies on certain topics. I thought they might be useful to other students.
 
 ### Current projects:
-- Econophysics ([english](https://github.com/jdansb/Econophysics): I am writing study notes on econophysics, with a particular focus on wealth distribution.
+- [Econophysics](https://github.com/jdansb/Econophysics): I am writing study notes on econophysics, with a particular focus on wealth distribution. A PDF version in Portuguese is available [here](https://github.com/jdansb/Econophysics/blob/main/files/Tese.pdf).
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
