@@ -19,7 +19,7 @@ Although I believe that we cannot be reduced to grades, I took the Unified Physi
 
 # Complete Works
 
-- [Can rising consumption deepen inequality?](https://arxiv.org/abs/2601.15537) - 
+- [Can rising consumption deepen inequality?](https://arxiv.org/abs/2601.15537) - Paper published by The European Physical Journal Special Topics  (2026, English)
 - [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369) - Paper published by Physica A: Statistical Mechanics and its Applications (2025, English).
 - [Non-binary artificial neuron with phase variation implemented on a quantum computer](https://periodicos.ufsm.br/cienciaenatura/article/view/69281) - Paper published by the Ciência e Natura. (2024, English).
 - [One predator and two prey: coexistence of pumas, guanacos, and sheep in Patagonia](https://lume.ufrgs.br/handle/10183/264295) - Master's thesis (2023, Portuguese).
