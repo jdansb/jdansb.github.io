@@ -1,7 +1,6 @@
 # Jhordan Silveira de Borba
 Welcome to my humble personal website.
 
-You may be interested in my [**personal projects**](https://jdansb.github.io/pessoais) or the [**list of tools**](https://jdansb.github.io/ferramentas) that I consider useful for a scientist. If you would like to know more about me, you can read my resume below. And if you are specifically interested in my study material on econophysics (under development), you can follow its current status [here(english)](https://github.com/jdansb/Econophysics) or [here(portuguese)](https://jdansb.github.io/Econofisica/Tese.xhtml).
 
 # CURRICULUM
 
@@ -16,6 +15,16 @@ Contact: sbjhordan@gmail.com.
 ## Extras
 
 Although I believe that we cannot be reduced to grades, I took the Unified Physics Exam (EUF) in 2020 and was ranked in the fourth quartile (Q4), that is, among the 25% of students with the highest grades. I also obtained the highest grade (A) in all graduate courses. As an autistic person who had to deal with depression during my undergraduate studies, I consider this an achievement.
+
+
+# Complete Works
+
+- [Can rising consumption deepen inequality?](https://arxiv.org/abs/2601.15537) - 
+- [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369) - Paper published by Physica A: Statistical Mechanics and its Applications (2025, English).
+- [Non-binary artificial neuron with phase variation implemented on a quantum computer](https://periodicos.ufsm.br/cienciaenatura/article/view/69281) - Paper published by the Ciência e Natura. (2024, English).
+- [One predator and two prey: coexistence of pumas, guanacos, and sheep in Patagonia](https://lume.ufrgs.br/handle/10183/264295) - Master's thesis (2023, Portuguese).
+- [Hybrid model of the kernel method for quantum computers](https://periodicos.utfpr.edu.br/rbfta/article/view/14100) - Paper published by the Brazilian Journal of Applied Technological Physics (2022, Portuguese).
+- [Implementation of Machine Learning Techniques in Quantum Computers](https://www.researchgate.net/publication/352898890_Implementacao_de_Tecnicas_de_Aprendizado_de_Maquina_em_Computadores_Quanticos) - Undergraduate thesis (2021, Portuguese).
 
 # Experience
 
@@ -50,15 +59,7 @@ I collaborated with the high energy physics research group at FURG (ASTROFURG �
 *2014-2015*<br>
 In the first year, I worked in event organization. The following year, I transitioned to student assistance and social movements.
 
-# Works
-
-## Complete works
-- [Can rising consumption deepen inequality?](https://arxiv.org/abs/2601.15537)
-- [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369) - Paper published by Physica A: Statistical Mechanics and its Applications (2025, English).
-- [Non-binary artificial neuron with phase variation implemented on a quantum computer](https://periodicos.ufsm.br/cienciaenatura/article/view/69281) - Paper published by the Ciência e Natura. (2024, English).
-- [One predator and two prey: coexistence of pumas, guanacos, and sheep in Patagonia](https://lume.ufrgs.br/handle/10183/264295) - Master's thesis (2023, Portuguese).
-- [Hybrid model of the kernel method for quantum computers](https://periodicos.utfpr.edu.br/rbfta/article/view/14100) - Paper published by the Brazilian Journal of Applied Technological Physics (2022, Portuguese).
-- [Implementation of Machine Learning Techniques in Quantum Computers](https://www.researchgate.net/publication/352898890_Implementacao_de_Tecnicas_de_Aprendizado_de_Maquina_em_Computadores_Quanticos) - Undergraduate thesis (2021, Portuguese).
+# More Works
 
 ## Talks
 
@@ -85,9 +86,7 @@ In the first year, I worked in event organization. The following year, I transit
 - One predator and two prey: Coexistence of pumas, guanacos and sheep in Patagonia - Autumn Meeting Brazilian Physical Society, Belém. (2025)
 - Three-species ecosystem in Argentine Patagonia -  III Brazilian Meeting on Statistical Physics, online.  (2021)
 
-
 **Note**: I know that academia values oral presentations more than posters, but I would like to remind you that as someone with autism, social events are especially challenging, and posters are a way to ensure my participation in a slightly less stressful way.
-
 
 # Certificates
 - Best poster - Autumn Meeting Brazilian Physical Society, Belém. (2025)
@@ -111,7 +110,7 @@ In the first year, I worked in event organization. The following year, I transit
 Proceed with caution; these notes are subject to errors due to the natural learning process. These notes are the result of my personal studies on certain topics. I thought they might be useful to other students.
 
 ### Current projects:
-- Econophysics ([english](https://github.com/jdansb/Econophysics)/[portuguese](https://jdansb.github.io/Econofisica/Tese.xhtml)): I am writing study notes on econophysics, with a particular focus on wealth distribution. I seek to avoid unnecessary subjective debates, focus on the quantitative aspects, and (according to my critics) vulgarize economic theory.
+- Econophysics ([english](https://github.com/jdansb/Econophysics): I am writing study notes on econophysics, with a particular focus on wealth distribution.
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
