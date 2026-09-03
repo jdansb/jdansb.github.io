@@ -1,6 +1,5 @@
 # Jhordan Silveira de Borba
-Welcome to my humble personal website. If you are interested in my econophysics study notes, you can find them [here](https://jdansb.github.io/Econophysics/) (or a PDF version in Portuguese [here](https://github.com/jdansb/Econophysics/blob/main/files/Tese.pdf)).
-
+Welcome to my humble personal website. If you are interested in my econophysics study notes, you can find them [here](https://jdansb.github.io/Econophysics/) (or a PDF version in Portuguese [here](https://github.com/jdansb/Econophysics/blob/main/files/Tese.pdf)), or if it's about my project on quantum mechanics, that one is [here](https://jdansb.github.io/The-Quantum-Foundations-Project/).
 
 # CURRICULUM
 
@@ -23,6 +22,7 @@ Although I believe that we cannot be reduced to grades, I took the Unified Physi
 - [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369) - Paper published by Physica A: Statistical Mechanics and its Applications (2025, English).
 - [Non-binary artificial neuron with phase variation implemented on a quantum computer](https://periodicos.ufsm.br/cienciaenatura/article/view/69281) - Paper published by the Ciência e Natura. (2024, English).
 - [One predator and two prey: coexistence of pumas, guanacos, and sheep in Patagonia](https://lume.ufrgs.br/handle/10183/264295) - Master's thesis (2023, Portuguese).
+    - [Preprint](https://arxiv.org/abs/2412.02936) - Manuscript of a paper prepared based on the dissertation. (2024, English)
 - [Hybrid model of the kernel method for quantum computers](https://periodicos.utfpr.edu.br/rbfta/article/view/14100) - Paper published by the Brazilian Journal of Applied Technological Physics (2022, Portuguese).
 - [Implementation of Machine Learning Techniques in Quantum Computers](https://www.researchgate.net/publication/352898890_Implementacao_de_Tecnicas_de_Aprendizado_de_Maquina_em_Computadores_Quanticos) - Undergraduate thesis (2021, Portuguese).
 
@@ -111,6 +111,7 @@ Proceed with caution; these notes are subject to errors due to the natural learn
 
 ### Current projects:
 - [Econophysics](https://github.com/jdansb/Econophysics): I am writing study notes on econophysics, with a particular focus on wealth distribution. A PDF version in Portuguese is available [here](https://github.com/jdansb/Econophysics/blob/main/files/Tese.pdf).
+- [The Quantum Foundations Project](https://jdansb.github.io/The-Quantum-Foundations-Project/): Study notes in which I aim to discuss the foundations of quantum mechanics and their potential interpretation, starting with a basic review.
 
 ### Completed projects:
 -  [Ecology Wiki](https://fiscomp.if.ufrgs.br/index.php/Ecologia) - My master's research is what got me started with Wiki. I shared part of my introductory studies in the field by investigating different mathematical and computational models (2022, Portuguese).
