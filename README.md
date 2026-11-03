@@ -89,7 +89,12 @@ In the first year, I worked in event organization. The following year, I transit
 **Note**: I know that academia values oral presentations more than posters, but I would like to remind you that as someone with autism, social events are especially challenging, and posters are a way to ensure my participation in a slightly less stressful way.
 
 # Certificates
-- Best poster - Autumn Meeting Brazilian Physical Society, Belém. (2025)
+- Public Finance for the SDGs: Introduction - UNDP (2026)
+  - Tax
+  - Insurance and Risk Finance
+  - Debt
+  - Budgeting
+- Best poster - Autumn Meeting Brazilian Physical Society, Belém (2025)
 - Introduction to philosophy: from the pre-Socratics to Sartre - Glauber Ataide (2024)
 - Review for the journal Ecological Modelling (2024)
 - Proficiency in reading in the English language - Federal University of Santa Catarina (2022)
